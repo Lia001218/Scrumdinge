@@ -1,10 +1,9 @@
 //
-//  AVPlayer+Ding.swift
+//  AVPlayer.swift
 //  Scrumdinge
 //
 //  Created by Lia Zerquera on 10/30/23.
 //
-
 
 import Foundation
 import AVFoundation
